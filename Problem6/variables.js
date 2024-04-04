@@ -1,3 +1,5 @@
+// Problem 6 : Variables
+
 const id = 123;
 let name = "Darth Vader";
 let stars = 1;
