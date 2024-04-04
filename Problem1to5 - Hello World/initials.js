@@ -1,3 +1,5 @@
+// Problem 4 : Initials
+
 // This is how you comment in a single line in JS
 console.log("JJJJJJJ  MM   MM");
 console.log("   J     M M M M");

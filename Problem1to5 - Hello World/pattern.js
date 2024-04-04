@@ -1,3 +1,5 @@
+// Problem 2+3 : Console + Letter Tree
+
 console.log("   a  ");
 console.log("  b c  ");
 console.log(" d e f ");

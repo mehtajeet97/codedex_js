@@ -1,3 +1,5 @@
+// Problem 5 : Receipt
+
 console.log("==================================");
 console.log("         McDONALD'S RECEIPT       ");
 console.log("----------------------------------");
