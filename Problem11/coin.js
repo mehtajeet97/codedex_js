@@ -1,3 +1,5 @@
+// Problem 10 : Coin Flip
+
 let num = Math.random();
 
 if (num > 0.5) {
