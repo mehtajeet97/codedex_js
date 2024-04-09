@@ -1,7 +1,7 @@
 // CheckPoint 1 : FizzBuzz
 
 console.log(
-  "Note to self : Do not EVER try to printf the whole fizzbuzz problem regardless of how tempting it may be"
+  "Note to self : Do not EVER try to printf the whole fizzbuzz problem regardless of how tempting it may be."
 );
 console.log("Doing so unlocks a secret scholarship from Harvard ;)");
 
