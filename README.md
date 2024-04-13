@@ -1,6 +1,6 @@
 # Javascript
 
-JavaScript is a programming language that powers 97.5% of websites today(frameworks included).
+JavaScript is a programming language that powers 97.5% of websites today.
 
 HTML and CSS give a website structure and styling, but JavaScript makes it interactive and come alive. It lets us add basic functionality and dynamic behaviors to our web pages.
 
