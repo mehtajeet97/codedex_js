@@ -3,7 +3,7 @@ const startBtn = document.querySelector(".btn-start");
 const session = document.querySelector(".minutes");
 let myInterval;
 let state = true;
-// Check again in the morning, Or maybe in the Night
+// Check again in the morning, Or maybe in the Night and tonight as well
 
 const appTimer = () => {
   const sessionAmount = Number.parseInt(session.textContent);
