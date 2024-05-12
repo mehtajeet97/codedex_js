@@ -3,6 +3,7 @@ const startBtn = document.querySelector(".btn-start");
 const session = document.querySelector(".minutes");
 let myInterval;
 let state = true;
+// Well now, this isnt working...Check this
 
 const appTimer = () => {
   const sessionAmount = Number.parseInt(session.textContent);
