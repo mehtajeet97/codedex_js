@@ -3,7 +3,7 @@ const startBtn = document.querySelector(".btn-start");
 const session = document.querySelector(".minutes");
 let myInterval;
 let state = true;
-// Well now, this isnt working...Check this... Perhaps today I will.... This is a long thread thats going nowhere
+// Well now, this isnt working...Check this... Perhaps today I will.... This is a long thread thats going nowhere... What do you mean by uncommitted changes... About time that this is taken care of
 
 const appTimer = () => {
   const sessionAmount = Number.parseInt(session.textContent);
