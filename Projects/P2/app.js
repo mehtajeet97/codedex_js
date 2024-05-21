@@ -3,7 +3,7 @@ const startBtn = document.querySelector(".btn-start");
 const session = document.querySelector(".minutes");
 let myInterval;
 let state = true;
-// About time this comment was removed... But added another one... And the saga continues... Forever... What about the Promodoro App
+// About time this comment was removed... But added another one... And the saga continues... Forever... What about the Promodoro App... Does it live in the silent oblivion
 const appTimer = () => {
   const sessionAmount = Number.parseInt(session.textContent);
 
